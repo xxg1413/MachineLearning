@@ -7,6 +7,7 @@
 - [Machine Learning in Action](Machine Learning in Action/)
 - [NumPy Beginner's Guide](NumPy Beginner's Guide/)
 - [Web Scraping with Python](Web Scraping with Python/)
+- [Kaggle](Kaggle/)
 
 
 
@@ -16,7 +17,7 @@
 - [斯坦福大学《机器学习》课程](https://github.com/xxg1413/MachineLearning/tree/master/CS229:%20Machine%20Learning)
 - [Python数据分析基础教程:NumPy学习指南](NumPy Beginner's Guide/)
 - [Python网络数据采集](Web Scraping with Python/)
-
+- [Kaggle练习题题解](Kaggle/)
 
 ##项目
 - Python爬虫:豆瓣书籍

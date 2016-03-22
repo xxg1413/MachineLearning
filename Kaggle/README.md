@@ -1,8 +1,8 @@
 ##kaggle
 
-[kaggle website](https://www.kaggle.com/)
+about [kaggle](https://www.kaggle.com/)
 
 
 
-##Solution list
+####Solution list
 - [Digit Recognizer](Digit Recognizer/)
