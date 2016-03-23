@@ -7,5 +7,5 @@
 
 ##思维导图
 
-<img src=ch1-mindmap.png  width="800"  height="600" />
+<img src=ch1-mindmap.png  width="1080"  height="800" />
 
