@@ -32,6 +32,18 @@ def kNN0(in_X, data_set, labels, k):
     return sorted_class_count[0][0]
 
 
+
+def main():
+    group,labels = create_data_set()
+    result=kNN0([1,1],group,labels,3)
+    print result
+
+
+if __name__ == "__main__":
+    main()
+
+
+
 ##result
 '''
 >>> import kNN
