@@ -8,6 +8,7 @@
 - [NumPy Beginner's Guide](NumPy Beginner's Guide/)
 - [Web Scraping with Python](Web Scraping with Python/)
 - [Kaggle](Kaggle/)
+- [Euler](Euler/)
 
 
 
@@ -18,6 +19,7 @@
 - [Python数据分析基础教程:NumPy学习指南](NumPy Beginner's Guide/)
 - [Python网络数据采集](Web Scraping with Python/)
 - [Kaggle练习题题解](Kaggle/)
+- [Euler项目题解](Euler/)
 
 ##项目
 - Python爬虫:豆瓣书籍
