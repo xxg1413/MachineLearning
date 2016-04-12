@@ -1,0 +1,50 @@
+['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+(6.58003120192, u'The Abs Diet by David Zinczenko')
+(5.9231935598, u"I did'nt diet to get in shape for Trinidad's Carnival.....")
+(5.04673654071, u'Sensible Diet & Exercise')
+
+['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+(6.52183126318, u'food/exercise Monday 10/1')
+(5.94642162786, u'diet/exercise 10/4')
+(5.3332773133, u'food/exercise Friday 10/5')
+
+['food', 'calories', 'than', 'easy', 'high', 'come']
+(9.98464450123, u'High or low fat food? Easy trick for figuring it out')
+(3.41252863148, u'Oatmeal, cereal of choice.')
+(3.19119866786, u'Food and Workout Log 10.8.07')
+
+['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+(7.46811621754, u'saturday')
+(5.62839188358, u'diet-exercise thursday')
+(5.29370213306, u'sleepy food/fitness thursday')
+
+['food', 'home', 'then', 'exercise', 'morning', 'went']
+(5.22083940456, u'Food & Exercise -- 10/5/2007')
+(5.16310413391, u'Food & Exercise -- 10/4/2007')
+(4.75585045074, u'Food & Exercise -- 9/28/2007 (yesterday)')
+
+['fats', 'quot', 'this', 'good', 'about', 'like']
+(14.9233786406, u'Good fats bad fats')
+(1.3775418859, u'Should we ban marathons?')
+(1.37194239805, u'Food & Exercise -- 10/3/2007')
+
+['quot', 'they', 'money', 'want', 'very', 'best']
+(6.1620884463, u'More about the Chicago marathon')
+(5.58276496802, u'LOUIE + LINESMAKER = $$$$')
+(4.04959173123, u'High or low fat food? Easy trick for figuring it out')
+
+['that', 'much', 'does', 'exercise', 'this', 'morning']
+(7.73926153154, u'Food & Exercise -- 10/7/2007')
+(5.96451663382, u'< 1g, etc.')
+(3.81276353396, u"why I'm succeeding, finally, with my fitness")
+
+['with', 'your', 'weight', 'have', 'control', 'about']
+(6.78756986407, u'Control ur Weight')
+(5.54567450388, u'Flu-Busting Chicken Soup')
+(5.21079777525, u'Weight Loss Tips')
+
+['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+(5.58477112035, u'Food and Workout Log 9.27.08')
+(5.48488799917, u'Food and Workout Log 10.3.07')
+(5.10395750879, u'Food and Workout Log 10.10.07')
+

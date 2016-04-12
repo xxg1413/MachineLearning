@@ -1,0 +1,500 @@
+Obesity not a problem
+0.689921777771 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.616521773806 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.594775751071 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Fitness equipment
+0.336438029037 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0336830699618 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.0323861213375 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+1000 Atkins Recipes E-Book
+2.056067447 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+1.81222264198 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.31319239108 ['quot', 'they', 'money', 'want', 'very', 'best']
+
+saturday
+7.46811621754 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.174282882652 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.00317828003493 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Food & Exercise -- 10/13/2007
+4.73555293191 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.937525542474 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.10240571114 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+Food & exercise -- 10/12/2007 (yesterday)
+3.97594760235 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+1.01018312908 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.0198736807467 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Have you been enslaved and confused by the omniscience myth?
+1.14697423243 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.548717665826 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.159098480615 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+High or low fat food? Easy trick for figuring it out
+9.98464450123 ['food', 'calories', 'than', 'easy', 'high', 'come']
+4.04959173123 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.123588233146 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Absolutely Free People Search
+1.39249472006 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.459779859548 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.4371224863 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Friday
+4.35052263015 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.609863992308 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.249760019695 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Food and Workout Log 10.11.07
+4.76278425737 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+1.18573164731 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.559740845941 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+LIL / Biggie's October Bulletin - UK
+1.6407957576 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.09371385364 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0997065733116 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+How accurate are the calorie meters on gym equipment?
+1.68385026718 ['with', 'your', 'weight', 'have', 'control', 'about']
+1.24336224612 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.472039508303 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+diet-exercise thursday
+5.62839188358 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+1.42876311885 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.451891791988 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Fast Food Meat
+3.96657604228 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.56912835469 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.945562729964 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Food & Exercise -- 10/11/2007
+2.06565313343 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.915925841734 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.852089104271 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+sleepy food/fitness thursday
+5.29370213306 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.821758436298 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.373361576129 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+6 Dollars! You Can't Lose!! AS SEEN ON OPRAH & 20/20
+3.50452080121 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.48000806252 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.353120143386 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+Looking for mediterranean buffet restaurants in Toronto, Canada
+0.766709189825 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.488536397538 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.305836578699 ['quot', 'they', 'money', 'want', 'very', 'best']
+
+Food and Workout Log 10.10.07
+5.10395750879 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.931990921746 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.0751093197335 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+Food and Workout Log 10.9.07
+3.66128126402 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.924777033606 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.46368820747 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Food & Exercise -- 10/10/2007
+2.09636617791 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.777930860455 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.234412590473 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+rainy diet/exercise
+2.42408643655 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.79759287175 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+1.44383382428 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Whatever happened to Kaleb?
+1.62771768736 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.424792812054 ['with', 'your', 'weight', 'have', 'control', 'about']
+3.00050522053e-008 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Food & Exercise -- 10/9/2007
+2.67051008267 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+2.25685573791 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.962829471038 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Way of getting my veggies
+2.51102412355 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.82193456941 ['with', 'your', 'weight', 'have', 'control', 'about']
+1.20974377068 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Food & Exercise -- 10/8/2007 (yesterday)
+3.57035878288 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.581070745119 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.151621405217 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Oatmeal, cereal of choice.
+3.41252863148 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.482857491594 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.21056938621 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Whatever happened to Dally?
+0.38943120274 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.38027115946 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.176713051522 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+More about the Chicago marathon
+6.1620884463 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.268050785403 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0210462038578 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Food and Workout Log 10.8.07
+3.19119866786 ['food', 'calories', 'than', 'easy', 'high', 'come']
+2.68113794132 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.31607800222 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+diet/exercise 10/8
+4.35583316205 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.56546955704 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+1.25839277593 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+I did'nt diet to get in shape for Trinidad's Carnival.....
+5.9231935598 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.567204076047 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.0169687217709 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+I got in shape and took part in Trinidad Carnival!
+1.02074036539 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.930265487859 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.266432773175 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+THE ULTIMATE FAT-BURNING DAY
+1.72598890408 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.528141703291 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.390073319858 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Control ur Weight
+6.78756986407 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.000529137198612 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.00038074933869 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+BrainStimPro Binaural Brainwave Generator
+0.533630276909 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.37841909077 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.116016288049 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Food & Exercise -- 10/7/2007
+7.73926153154 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.470298707782 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.233105196286 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+food/exercise Friday 10/7
+4.69100441998 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.64398092185 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.689120996726 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Should we ban marathons?
+2.44173145283 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.81373140989 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.3775418859 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Abstinence 3 (8 October to 24 October)
+0.969974503706 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.912311154908 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.371633089984 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Food & Exercise -- 10/6/2007 (yesterday)
+2.63514100937 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+1.80605150884 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.426403502815 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Food and Workout Log 10.5.07
+2.03340244602 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.321040122788 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.286990704435 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Food and Workout Log 10.4.07
+2.32606586074 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+2.23872352546 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.991619356436 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+Exercise
+1.82773959677 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.05124941331 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.420038570854 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+food/exercise Friday 10/5
+5.3332773133 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.381638768 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.590183487282 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+Food & Exercise -- 10/5/2007
+5.22083940456 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.29336324721 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.279839860069 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Fitness and wellness is here to help you, about fittnes, nutrition, health, everything is here...
+1.47212290909 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.581092551305 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.22366446507 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+Live healthy and disease free
+1.33925118974 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.735241239185 ['with', 'your', 'weight', 'have', 'control', 'about']
+4.48445780778e-005 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+maintain ur diet dailyu
+1.37867872087 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+7.75955547582e-008 ['with', 'your', 'weight', 'have', 'control', 'about']
+8.66186281206e-016 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Food & Exercise -- 10/4/2007
+5.16310413391 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.108950865658 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.103411657525 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+diet/exercise 10/4
+5.94642162786 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.15981737715 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.0648977104196 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+sad to say
+2.0658103969 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.0211752756 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.606678422181 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+Food and Workout Log 10.3.07
+5.48488799917 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+1.04086527858 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.86250634261 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Walking As Exercise
+2.49352373509 ['quot', 'they', 'money', 'want', 'very', 'best']
+2.18075570265 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.613516861795 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+food/exercise wednesday 10/3
+5.07554844226 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.23323613477 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.351030687614 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+How much proteins leak into water when cooking vegetables ?
+2.93064858147 ['with', 'your', 'weight', 'have', 'control', 'about']
+1.18774119665 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.00439761415131 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+Food & Exercise -- 10/3/2007
+3.50183444986 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+2.21222380937 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.37194239805 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+The truth about exercising and your body as a whole
+3.21386971879 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+3.15819744924 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.270507407515 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Got the new Elliptical
+1.14114086054 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.10131650413 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.477565648015 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Fingerstick cholesterol tests accurate?
+2.14611673458 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+1.26970417226 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.750416051713 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+Weight Loss Tips
+5.21079777525 ['with', 'your', 'weight', 'have', 'control', 'about']
+1.59092846403 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.00134310805496 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+Obesity Driving Rising U.S. Health Costs
+1.25615188819 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.712235310825 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.238899338741 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Flu-Busting Chicken Soup
+5.54567450388 ['with', 'your', 'weight', 'have', 'control', 'about']
+1.21893998075 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.451175568656 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+Re: My Healing Story
+1.96323375291 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.491756558034 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.477646079039 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Food and Workout Log 10.2.07
+2.60282810129 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+1.20884355476 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.950088631141 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+food/exercise Tuesday 10/2
+2.64289395866 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.651445733893 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.371530809297 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Food & Exercise -- 10/2/2007
+4.03395454429 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.733387053358 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.335622901915 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+Diet Recommendations following stoppage of activity
+2.76689639493 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+2.66796965036 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.00214949067482 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+why I'm succeeding, finally, with my fitness
+3.81276353396 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+2.28727363664 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0084896973916 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+food/exercise Monday 10/1
+6.52183126318 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.04845803053 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.220817568443 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+Food & Exercise -- 10/1/2007
+3.41693152333 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+1.43659575232 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0107024339333 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+Good fats bad fats
+14.9233786406 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.12157320235 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.000388079511473 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+milk products
+2.91179410526 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.35981372517 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.894968443359 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+Food and Workout Log 10.1.07
+4.86163252456 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+3.04379043965 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.288092400057 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+< 1g, etc.
+5.96451663382 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.757014711498 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.0106873617525 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+peanut butter
+2.79640093073 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.974232666377 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.20210540615 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+food/exercise Sunday 9/30
+3.13525705865 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.77396028396 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.84994166551 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
+Food and Workout Log 9.30.07
+4.16473442796 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+1.1093666032 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.0787803510605 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Food & Exercise -- 9/30/2007
+4.50185209238 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+1.04931983732 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.691962870134 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Food and Workout Log 9.29.07
+4.84939396321 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+2.39617281343 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.816992749371 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+Food and Workout Log 9.28.07
+4.67171965065 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.282691470562 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.200338717705 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+LOUIE + LINESMAKER = $$$$
+5.58276496802 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.342556596947 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.179902643439 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+Food & Exercise -- 9/29/2007 (yesterday)
+2.58541666839 ['quot', 'they', 'money', 'want', 'very', 'best']
+2.09030954926 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.852396204369 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+
+ASDLC has changed
+0.112818164838 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.102149673333 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0271390834142 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+
+diet/exercise Saturday 9/29
+2.11947826799 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+1.44172267631 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.589173976223 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Sensible Diet & Exercise
+5.04673654071 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+3.61357653903 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.40785970283 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+Abstinence 2.- (20 September to 7 October )
+0.968219095052 ['food', 'calories', 'than', 'easy', 'high', 'come']
+0.949878615175 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+0.46422787912 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+Evolution and Weight
+2.20784229869 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.18857451599 ['fats', 'quot', 'this', 'good', 'about', 'like']
+1.00060668406 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+Food & Exercise -- 9/28/2007 (yesterday)
+4.75585045074 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+0.840897380766 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.0455304461165 ['quot', 'they', 'money', 'want', 'very', 'best']
+
+The Abs Diet by David Zinczenko
+6.58003120192 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.00218473474643 ['fats', 'quot', 'this', 'good', 'about', 'like']
+0.00140268366152 ['food', 'calories', 'than', 'easy', 'high', 'come']
+
+Re: ABC News Nightline: Carbohydrates Make You Fat, and Perhaps Sick
+2.50629631142 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.32614477527 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.194215052468 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+
+Sensible Eating
+2.67280083529 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.95758534619 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.272657483613 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+3 slices of ff cheese on a poached egg
+0.925803022044 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+0.158529510462 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+1.69625785908e-009 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+
+food/exercise Friday 9/28
+4.2243066995 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
+1.69260968796 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.355277035138 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+
+money making opportunity
+1.52941598839 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+1.23535469791 ['quot', 'they', 'money', 'want', 'very', 'best']
+0.292057461928 ['with', 'your', 'weight', 'have', 'control', 'about']
+
+The Benefits of Biotechnology For Mankind
+0.543967592519 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.389852100811 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
+0.208865237821 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+Food and Workout Log 9.27.08
+5.58477112035 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
+0.093698650419 ['food', 'home', 'then', 'exercise', 'morning', 'went']
+1.16281432958e-005 ['quot', 'they', 'money', 'want', 'very', 'best']
+
+Re: My First Century Ride
+2.7939634836 ['quot', 'they', 'money', 'want', 'very', 'best']
+1.98080235676 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.0869645267992 ['fats', 'quot', 'this', 'good', 'about', 'like']
+
+A Special Update from Matty V.
+1.64986127649 ['that', 'much', 'does', 'exercise', 'this', 'morning']
+0.635897197115 ['with', 'your', 'weight', 'have', 'control', 'about']
+0.337529069245 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+
