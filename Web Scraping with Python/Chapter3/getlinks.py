@@ -23,3 +23,4 @@ while len(links) > 0:
 
     links = getLinks(newArticle)
 
+
