@@ -6,10 +6,12 @@
 - [CS229 Machine Learning](CS229 Machine Learning/)
 - [Machine Learning in Action](Machine Learning in Action/)
 - [NumPy Beginner's Guide](NumPy Beginner's Guide/)
+- [Programming Collective Intelligence](Programming Collective Intelligence/)
+- [R for Everyone](R for Everyone/)
 - [Web Scraping with Python](Web Scraping with Python/)
+- [Learning Spark: Lightning-fast Data Analysis](Learning Spark: Lightning-fast Data Analysis/)
 - [Kaggle](Kaggle/)
 - [Euler](Euler/)
-
 
 
 ##笔记
