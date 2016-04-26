@@ -5,13 +5,11 @@ from urllib.request import  urlopen
 from bs4 import  BeautifulSoup
 import  re
 
-html = urlopen("http://baike.baidu.com/calendar/")
+html = urlopen("http://www.todayonhistory.com/")
 
 data = BeautifulSoup(html, "html.parser")
 
-for event  in data.findAll("dl", {"class": "events"}):
+
+for event  in data.findAll("div",{"class":"t"}):
     print(event)
-
-
-
 

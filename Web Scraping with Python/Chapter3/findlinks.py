@@ -44,7 +44,19 @@ def getRandomExtLink(startPage):
 
     if len(exLinks) == 0:
         inLinks = getInternalLinks(startPage)
-        return getNext
+        return getRandomExtLink(inLinks[random.randint(0,len(inLinks)-1)])
+    else:
+        return exLinks[random.randint(0,len(exLinks)-1)]
+
+
+def followExtOnly(startSite):
+    extLink = getRandomExtLink("http://oreilly.com")
+    print("extLink:" + extLink)
+    followExtOnly(extLink)
+
+
+followExtOnly("http://oreilly.com")
+
 
 
 
