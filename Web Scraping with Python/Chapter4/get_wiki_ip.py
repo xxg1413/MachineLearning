@@ -17,7 +17,7 @@ def getIPv4Info(ipv4Address):
 
     responseJson = json.loads(response, object_hook=IPv4_Address_Info)
 
-    print(responseJson.data.country)
+    return responseJson.data.country
 
 
 def getIPv6Info(ipv6Address):
@@ -26,7 +26,7 @@ def getIPv6Info(ipv6Address):
 
     city = data.findAll("p", {"class": "text-info lead"})
 
-    print(city[2].get_text())
+    return city[2].get_text().strip("\n\t\r ")
 
 
 def getLinks(articleUrl):
@@ -62,7 +62,10 @@ def main():
         for link in links:
             historyIPs = getHistoryIPs(link.attrs["href"])
             for historyIP in historyIPs:
-                print("IP:",historyIP," city:", getIPv4Info(historyIP))
+                if len(historyIP) < 17:
+                    print("IPv4:",historyIP," country:", getIPv4Info(historyIP))
+                else:
+                    print("IPv6:",historyIP," country:", getIPv6Info(historyIP) )
 
     newLink = links[random.randint(0,len(links)-1)].attrs["href"]
     links = getLinks(newLink)
