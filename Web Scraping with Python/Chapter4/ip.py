@@ -31,9 +31,6 @@ def getCountry(ipAddress):
     return responseJson.get("data").get("country")
 
 
-
-
-
 #print(getCountry("180.167.10.98"))
 
 print(parse("180.167.10.98"))
