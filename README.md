@@ -1,8 +1,13 @@
 ##Machine Learning
 
 
-##note
+
+
+##online class
 - [CS229 Machine Learning](CS229 Machine Learning/)
+
+
+##note
 - [Building Machine Learning Systems](Building Machine Learning Systems/)
 - [Learning Data Mining with Python](Learning Data Mining with Python/)
 - [Machine Learning in Action](Machine Learning in Action/)
@@ -11,12 +16,16 @@
 - [R for Everyone](R for Everyone/)
 - [Web Scraping with Python](Web Scraping with Python/)
 - [Learning Spark: Lightning-fast Data Analysis](Learning Spark/)
+
+#webset
 - [Kaggle](Kaggle/)
 - [Euler](Euler/)
 
 
-##笔记
+##课程
 - [斯坦福大学《机器学习》课程](CS229 Machine Learning/)
+
+##书籍
 - [机器学习系统设计](Building Machine Learning Systems/)
 - [Python数据挖掘入门与实践](Learning Data Mining with Python/)
 - [机器学习实战](Machine Learning in Action/)
@@ -24,6 +33,8 @@
 - [集体智慧编程](Programming Collective Intelligence/)
 - [R语言-实用数据分析和可视化技术](R for Everyone/)
 - [Python网络数据采集](Web Scraping with Python/)
+
+#竞赛
 - [Kaggle练习题题解](Kaggle/)
 - [Euler项目题解](Euler/)
 
