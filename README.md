@@ -61,7 +61,7 @@
 
 
 ##竞赛
-- [Kaggle练习题题解](https://github.com/xxg1413/MachineLearning/tree/master/g/Kaggle/)
+- [Kaggle练习题题解](https://github.com/xxg1413/MachineLearning/tree/master/Kaggle/)
 - [Euler项目题解](https://github.com/xxg1413/MachineLearning/tree/master/Euler/)
 
 
@@ -69,7 +69,7 @@
 ##入门
 - [numpy](https://github.com/xxg1413/MachineLearning/tree/master/numpy-tutorial/)
 - [pandas](https://github.com/xxg1413/MachineLearning/tree/master/pandas-tutorial/)
-- [sklearn](https://github.com/xxg1413/MachineLearning/tree/master/sklearn-turorial/)
+- [sklearn](https://github.com/xxg1413/MachineLearning/tree/master/sklearn-tutorial/)
 - [tensorflow](https://github.com/xxg1413/Tensorflow/tree/master/tutorial)
 
 
