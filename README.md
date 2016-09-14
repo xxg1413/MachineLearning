@@ -2,16 +2,10 @@
 
 
 
-
 ##Coursera
 ####Andrew Ng--Stanford University 
 
 - [Machine Learning](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng)
-
-
-####Emily Fox & Carlos Guestrin--University of Washington
-
-- [Machine Learning](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning)
 
 
 ####Hsuan-Tien Lin--Taiwan University
@@ -38,12 +32,7 @@
 ##课程
 ####吴恩达--斯坦福大学
 
-- [机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng)
-
-
-####Emily Fox & Carlos Guestrin--华盛顿大学
-
-- [机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning)
+- [机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng)  
 
 
 ####林軒田--台湾大学
@@ -74,7 +63,7 @@
 
 
 ##Spark
-- [Introduction to Apache Spark](https://github.com/xxg1413/edx/tree/master/Introduction%20to%20Apache%20Spark)
+- [Introduction to Apache Spark](https://github.com/xxg1413/edx/tree/master/Introduction%20to%20Apache%20Spark)  
 - [Distributed Machine Learning with Apache Spark](https://github.com/xxg1413/edx/tree/master/Distributed%20Machine%20Learning%20with%20Apache%20Spark)
 - [Big Data Analysis with Apache Spark]()
 
