@@ -1,52 +1,67 @@
 ##Machine Learning
 
 
-
-##Coursera
-####Andrew Ng--Stanford University 
-
-- [Machine Learning](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng)
-
-
-####Hsuan-Tien Lin--Taiwan University
-- [Machine Learning Foundations](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning%20Foundations)
-- [Machine Learning Techniques](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning%20Techniques)
-
-
-
-##Book Note
-- [Building Machine Learning Systems](https://github.com/xxg1413/MachineLearning/tree/master/Building%20Machine%20Learning%20Systems)
-- [Learning Data Mining with Python](https://github.com/xxg1413/MachineLearning/tree/master/Learning%20Data%20Mining%20with%20Python)
-- [Machine Learning in Action](https://github.com/xxg1413/MachineLearning/tree/master/Machine Learning in Action/)
-- [NumPy Beginner's Guide](https://github.com/xxg1413/MachineLearning/tree/master/NumPy Beginner's Guide/)
-- [Programming Collective Intelligence](https://github.com/xxg1413/MachineLearning/tree/master/Programming Collective Intelligence/)
-- [R for Everyone](https://github.com/xxg1413/MachineLearning/tree/master/R for Everyone/)
-- [Web Scraping with Python](https://github.com/xxg1413/MachineLearning/tree/master/Web Scraping with Python/)
-- [Learning Spark: Lightning-fast Data Analysis](https://github.com/xxg1413/MachineLearning/tree/master/Learning Spark/)
-
-##Competitions
-- [Kaggle](https://github.com/xxg1413/MachineLearning/tree/master/Kaggle/)
-- [Euler](https://github.com/xxg1413/MachineLearning/tree/master/Euler/)
-
-
 ##课程
-####吴恩达--斯坦福大学
 
-- [机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng)  
+####[机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng) -- 吴恩达 -- 斯坦福大学
+
+- 课程进度： 100%
+- 作业：
+	- [Octave] - 使用Octave，默认版本  100%
+	- [Jupyter Notebook](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng/Jupyter%20Notebook) - 使用numpy,pandas,scikit-learn,matplotlib,tensorflow等库的Python3版  12%
 
 
-####林軒田--台湾大学
+####机器学习 -- 林軒田 -- 台湾大学
 - [机器学习基石](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning%20Foundations)
 - [机器学习技法](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning%20Techniques)
 
+
+
+
+####[CS231n: 面向视觉识别的卷积神经网络--Fei-Fei Li & Andrej Karpathy & Justin Johnson -- 斯坦福大学](https://github.com/xxg1413/coursera/tree/master/CS231n:%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition)
+
+- 课程进度： 第2集
+- 作业：
+	- 作业1
+	- 作业2
+	- 作业3 
+
+
+####[机器学习中的神经网络--Geoffrey Hinton-多伦多大学](https://github.com/xxg1413/coursera/tree/master/Neural%20Networks%20for%20Machine%20Learning)
+- 课程进度： Lecture2
+- 作业：
+	- Octave - 使用Octave，默认版本  
+	- Tensorflow 版本
+
 ##读书
 - [机器学习系统设计](https://github.com/xxg1413/MachineLearning/tree/master/Building Machine Learning Systems/)
+	- 进度：100%
+	- 项目：寻找实际数据练习
+	
 - [机器学习实战](https://github.com/xxg1413/MachineLearning/tree/master/Machine Learning in Action/)
+	- 进度：第2章
+	- 项目：
+	
 - [Python数据分析基础教程:NumPy学习指南](https://github.com/xxg1413/MachineLearning/tree/master/NumPy Beginner's Guide/)
+	- 进度：100% 
+	- 项目：numpy入门
+	
 - [Python数据挖掘入门与实践](https://github.com/xxg1413/MachineLearning/tree/master/Learning%20Data%20Mining%20with%20Python)
+	- 进度：Chapter3
+	- 项目：
+	
 - [集体智慧编程](https://github.com/xxg1413/MachineLearning/tree/master/Programming Collective Intelligence/)
+	- 进度：100%
+	- 项目：使用库重写所有例子
+	
 - [R语言-实用数据分析和可视化技术](https://github.com/xxg1413/MachineLearning/tree/master/R for Everyone/)
+	- 进度：100%
+	- 项目：	
+	
 - [Python网络数据采集](https://github.com/xxg1413/MachineLearning/tree/master/Web Scraping with Python/)
+	- 进度：100%
+	- 项目：爬虫系统
+	
 
 
 ##竞赛
@@ -70,4 +85,3 @@
 
 
 ##项目列表
-- Python爬虫:豆瓣书籍
