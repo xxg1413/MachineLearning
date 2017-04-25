@@ -1,9 +1,9 @@
-##Machine Learning
+## Machine Learning
 
 
-##课程
+## 课程
 
-####[机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng) -- 吴恩达 -- 斯坦福大学
+#### [机器学习](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng) -- 吴恩达 -- 斯坦福大学
 
 - 课程进度： 100%
 - 作业：
@@ -11,14 +11,14 @@
 	- [Jupyter Notebook](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning-Andrew%20Ng/Jupyter%20Notebook) - 使用numpy,pandas,scikit-learn,matplotlib,tensorflow等库的Python3版  12%
 
 
-####机器学习 -- 林軒田 -- 台湾大学
+#### 机器学习 -- 林軒田 -- 台湾大学
 - [机器学习基石](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning%20Foundations)
 - [机器学习技法](https://github.com/xxg1413/coursera/tree/master/Machine%20Learning%20Techniques)
 
 
 
 
-####[CS231n: 面向视觉识别的卷积神经网络--Fei-Fei Li & Andrej Karpathy & Justin Johnson -- 斯坦福大学](https://github.com/xxg1413/coursera/tree/master/CS231n:%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition)
+#### [CS231n: 面向视觉识别的卷积神经网络--Fei-Fei Li & Andrej Karpathy & Justin Johnson -- 斯坦福大学](https://github.com/xxg1413/coursera/tree/master/CS231n:%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition)
 
 - 课程进度： 第2集
 - 作业：
@@ -27,13 +27,13 @@
 	- 作业3 
 
 
-####[机器学习中的神经网络--Geoffrey Hinton-多伦多大学](https://github.com/xxg1413/coursera/tree/master/Neural%20Networks%20for%20Machine%20Learning)
+#### [机器学习中的神经网络--Geoffrey Hinton-多伦多大学](https://github.com/xxg1413/coursera/tree/master/Neural%20Networks%20for%20Machine%20Learning)
 - 课程进度： Lecture2
 - 作业：
 	- Octave - 使用Octave，默认版本  
 	- Tensorflow 版本
 
-##读书
+## 读书
 - [机器学习系统设计](https://github.com/xxg1413/MachineLearning/tree/master/Building Machine Learning Systems/)
 	- 进度：100%
 	- 项目：寻找实际数据练习
@@ -64,24 +64,24 @@
 	
 
 
-##竞赛
+## 竞赛
 - [Kaggle练习题题解](https://github.com/xxg1413/MachineLearning/tree/master/Kaggle/)
 - [Euler项目题解](https://github.com/xxg1413/MachineLearning/tree/master/Euler/)
 
 
 
-##入门
+## 入门
 - [numpy](https://github.com/xxg1413/MachineLearning/tree/master/numpy-tutorial/)
 - [pandas](https://github.com/xxg1413/MachineLearning/tree/master/pandas-tutorial/)
 - [sklearn](https://github.com/xxg1413/MachineLearning/tree/master/sklearn-tutorial/)
 - [tensorflow](https://github.com/xxg1413/Tensorflow/tree/master/tutorial)
 
 
-##Spark
+## Spark
 - [Introduction to Apache Spark](https://github.com/xxg1413/edx/tree/master/Introduction%20to%20Apache%20Spark)  
 - [Distributed Machine Learning with Apache Spark](https://github.com/xxg1413/edx/tree/master/Distributed%20Machine%20Learning%20with%20Apache%20Spark)
 - [Big Data Analysis with Apache Spark]()
 
 
 
-##项目列表
+## 项目列表
