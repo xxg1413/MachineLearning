@@ -34,15 +34,15 @@
 	- Tensorflow 版本
 
 ## 读书
-- [机器学习系统设计](https://github.com/xxg1413/MachineLearning/tree/master/Building Machine Learning Systems/)
+- [机器学习系统设计](https://github.com/xxg1413/MachineLearning/tree/master/Building%20Machine%20Learning%20Systems)
 	- 进度：100%
 	- 项目：寻找实际数据练习
 	
-- [机器学习实战](https://github.com/xxg1413/MachineLearning/tree/master/Machine Learning in Action/)
+- [机器学习实战](https://github.com/xxg1413/MachineLearning/tree/master/Machine%20Learning%20in%20Action)
 	- 进度：第2章
 	- 项目：
 	
-- [Python数据分析基础教程:NumPy学习指南](https://github.com/xxg1413/MachineLearning/tree/master/NumPy Beginner's Guide/)
+- [Python数据分析基础教程:NumPy学习指南](https://github.com/xxg1413/MachineLearning/tree/master/NumPy%20Beginner's%20Guide)
 	- 进度：100% 
 	- 项目：numpy入门
 	
@@ -50,15 +50,15 @@
 	- 进度：Chapter3
 	- 项目：
 	
-- [集体智慧编程](https://github.com/xxg1413/MachineLearning/tree/master/Programming Collective Intelligence/)
+- [集体智慧编程](https://github.com/xxg1413/MachineLearning/tree/master/Programming%20Collective%20Intelligence/)
 	- 进度：100%
 	- 项目：使用库重写所有例子
 	
-- [R语言-实用数据分析和可视化技术](https://github.com/xxg1413/MachineLearning/tree/master/R for Everyone/)
+- [R语言-实用数据分析和可视化技术](https://github.com/xxg1413/MachineLearning/tree/master/R%20for%20Everyone/)
 	- 进度：100%
 	- 项目：	
 	
-- [Python网络数据采集](https://github.com/xxg1413/MachineLearning/tree/master/Web Scraping with Python/)
+- [Python网络数据采集](https://github.com/xxg1413/MachineLearning/tree/master/Web%20Scraping%20with%20Python/)
 	- 进度：100%
 	- 项目：爬虫系统
 	
