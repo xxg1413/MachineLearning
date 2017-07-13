@@ -4,8 +4,9 @@ import  datetime
 import  random
 import  re
 import  json
+import  ssl
 
-
+context = ssl._create_unvarified_context()
 random.seed(datetime.datetime.now())
 
 class IPv4_Address_Info:
@@ -13,7 +14,7 @@ class IPv4_Address_Info:
         self.__dict__ = d
 
 def getIPv4Info(ipv4Address):
-    response = urlopen("http://ip.taobao.com/service/getIpInfo.php?ip="+ipv4Address).read().decode('utf-8')
+    response = urlopen("http://ip.taobao.com/service/getIpInfo.php?ip="+ipv4Address, context = context).read().decode('utf-8')
 
     responseJson = json.loads(response, object_hook=IPv4_Address_Info)
 
@@ -21,7 +22,7 @@ def getIPv4Info(ipv4Address):
 
 
 def getIPv6Info(ipv6Address):
-    html  = urlopen("http://geoip.neu.edu.cn/?ip=" + ipv6Address)
+    html  = urlopen("http://geoip.neu.edu.cn/?ip=" + ipv6Address, context = context)
     data = BeautifulSoup(html, "html.parser")
 
     city = data.findAll("p", {"class": "text-info lead"})
@@ -30,7 +31,7 @@ def getIPv6Info(ipv6Address):
 
 
 def getLinks(articleUrl):
-    html = urlopen("http://en.wikipedia.org" + articleUrl)
+    html = urlopen("http://en.wikipedia.org" + articleUrl, context = context)
     data = BeautifulSoup(html, "html.parser")
 
     return  data.find("div", {"id":"bodyContent"}).findAll("a",
@@ -43,7 +44,7 @@ def getHistoryIPs(pageUrl):
 
     print("history url is:" + historyUrl)
 
-    html = urlopen(historyUrl)
+    html = urlopen(historyUrl, context = context)
 
     data = BeautifulSoup(html, "html.parser")
 
